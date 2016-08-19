@@ -1,8 +1,6 @@
 Rendering
 =====================
 
-Simple scripts to simplify the worflow in a 3d pipeline.
-
 ### maya_batch_render.sh
 This script will simply render a maya scene to specified path.
 Can be useful for queuing multiple scenes on the same machine.
